@@ -1,6 +1,6 @@
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img src="assets/banner-light.png" alt="naldadev" width="100%"></picture></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png?v=4"><img src="assets/banner-light.png?v=4" alt="naldadev" width="100%"></picture></p>
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nums-dark.png"><img src="assets/nums-light.png" alt="DAU 2,500+ (Desktop Dday 운영 당시, 매각) · 크몽 평점 4.9/5, 리뷰 24건 · 오픈소스 기여 2건" width="100%"></picture></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nums-dark.png?v=4"><img src="assets/nums-light.png?v=4" alt="DAU 2,500+ (Desktop Dday 운영 당시, 매각) · 크몽 평점 4.9/5, 리뷰 24건 · 오픈소스 기여 2건" width="100%"></picture></p>
 
 - **[포트폴리오 보기](https://naldadev.com/portfolio/)** `naldadev.com`
 - **[seongjae@naldadev.com](mailto:seongjae@naldadev.com)** `메일`
@@ -9,7 +9,7 @@
 ### 대표 작업
 
 <p>
-<a href="https://naldadev.com/portfolio/dangaro/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-dangaro-dark.png"><img src="assets/tile-dangaro-light.png" alt="단가로 · 광고 단가 AI 분석" width="20%"></picture></a><a href="https://naldadev.com/portfolio/artdata/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-artdata-dark.png"><img src="assets/tile-artdata-light.png" alt="아트데이터 · 미대 입시 AI 분석" width="20%"></picture></a><a href="https://naldadev.com/portfolio/dday/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-dday-dark.png"><img src="assets/tile-dday-light.png" alt="Desktop Dday · D-Day 위젯" width="20%"></picture></a><a href="https://naldadev.com/portfolio/monggeul/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-monggeul-dark.png"><img src="assets/tile-monggeul-light.png" alt="몽글 · 모바일 청첩장" width="20%"></picture></a><a href="https://naldadev.com/portfolio/myeongyeondang/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-myeongyeondang-dark.png"><img src="assets/tile-myeongyeondang-light.png" alt="명연당 · AI 성명사주" width="20%"></picture></a>
+<a href="https://naldadev.com/portfolio/dangaro/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-dangaro-dark.png?v=4"><img src="assets/tile-dangaro-light.png?v=4" alt="단가로 · 광고 단가 AI 분석" width="20%"></picture></a><a href="https://naldadev.com/portfolio/artdata/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-artdata-dark.png?v=4"><img src="assets/tile-artdata-light.png?v=4" alt="아트데이터 · 미대 입시 AI 분석" width="20%"></picture></a><a href="https://naldadev.com/portfolio/dday/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-dday-dark.png?v=4"><img src="assets/tile-dday-light.png?v=4" alt="Desktop Dday · D-Day 위젯" width="20%"></picture></a><a href="https://naldadev.com/portfolio/monggeul/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-monggeul-dark.png?v=4"><img src="assets/tile-monggeul-light.png?v=4" alt="몽글 · 모바일 청첩장" width="20%"></picture></a><a href="https://naldadev.com/portfolio/myeongyeondang/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-myeongyeondang-dark.png?v=4"><img src="assets/tile-myeongyeondang-light.png?v=4" alt="명연당 · AI 성명사주" width="20%"></picture></a>
 </p>
 
 **[naldadev.com에서 작업 더 보기 →](https://naldadev.com/portfolio/)**
