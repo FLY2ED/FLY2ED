@@ -1,10 +1,6 @@
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img src="assets/banner-light.png" alt="naldadev · 박성재 · 소프트웨어 엔지니어. 만들고, 출시하고, 쓰는 사람을 보며 고쳐요." width="100%"></picture></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img src="assets/banner-light.png" alt="naldadev · 박성재 · 소프트웨어 엔지니어" width="100%"></picture></p>
 
-<p>
-<a href="https://naldadev.com/portfolio/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-portfolio-dark.png"><img src="assets/pill-portfolio-light.png" alt="포트폴리오 보기" height="45"></picture></a>
-<a href="mailto:seongjae@naldadev.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-email-dark.png"><img src="assets/pill-email-light.png" alt="seongjae@naldadev.com" height="45"></picture></a>
-<a href="https://kmong.com/@%EB%82%A0%EB%8B%A4%EB%8D%B0%EB%B8%8C"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-kmong-dark.png"><img src="assets/pill-kmong-light.png" alt="크몽 날다데브" height="45"></picture></a>
-</p>
+**[포트폴리오 보기](https://naldadev.com/portfolio/)** &nbsp;·&nbsp; **[seongjae@naldadev.com](mailto:seongjae@naldadev.com)** &nbsp;·&nbsp; **[크몽 날다데브](https://kmong.com/@%EB%82%A0%EB%8B%A4%EB%8D%B0%EB%B8%8C)**
 
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nums-dark.png"><img src="assets/nums-light.png" alt="DAU 2,500+ (Desktop Dday 운영 당시, 매각) · 크몽 평점 4.9/5, 리뷰 24건 · 오픈소스 기여 2건" width="100%"></picture></p>
 
@@ -46,6 +42,3 @@
 
 </details>
 
-<br>
-
-<a href="mailto:seongjae@naldadev.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/outro-dark.png"><img src="assets/outro-light.png" alt="같이 만들 일이 있다면 편하게 연락 주세요. seongjae@naldadev.com" width="100%"></picture></a>
