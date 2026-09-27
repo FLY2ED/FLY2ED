@@ -1,4 +1,4 @@
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png?v=4"><img src="assets/banner-light.png?v=4" alt="naldadev" width="100%"></picture></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png"><img src="assets/logo-light.png" alt="naldadev" height="32"></picture></p>
 
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nums-dark.png?v=4"><img src="assets/nums-light.png?v=4" alt="DAU 2,500+ (Desktop Dday 운영 당시, 매각) · 크몽 평점 4.9/5, 리뷰 24건 · 오픈소스 기여 2건" width="100%"></picture></p>
 
