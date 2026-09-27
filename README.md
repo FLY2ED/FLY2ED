@@ -28,16 +28,16 @@
 ### 기술
 
 **프론트엔드**<br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,ts,tailwind,vite,pinia&theme=dark"><img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,ts,tailwind,vite,pinia&theme=light" height="34"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue%2Cnuxtjs%2Creact%2Cnextjs%2Cts%2Ctailwind%2Cvite%2Cpinia&theme=dark"><img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,ts,tailwind,vite,pinia&theme=light" height="34"></picture>
 
 **앱·데스크톱**<br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,electron,kotlin,swift&theme=dark"><img src="https://skillicons.dev/icons?i=react,electron,kotlin,swift&theme=light" height="34"></picture> &nbsp;<sub>React Native · 네이티브 위젯</sub>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Celectron%2Ckotlin%2Cswift&theme=dark"><img src="https://skillicons.dev/icons?i=react,electron,kotlin,swift&theme=light" height="34"></picture> &nbsp;<sub>React Native · 네이티브 위젯</sub>
 
 **백엔드·DB**<br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mysql,redis,prisma&theme=dark"><img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mysql,redis,prisma&theme=light" height="34"></picture> &nbsp;<sub>Hono · Drizzle · Socket.io</sub>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cpython%2Cpostgres%2Cmysql%2Credis%2Cprisma&theme=dark"><img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mysql,redis,prisma&theme=light" height="34"></picture> &nbsp;<sub>Hono · Drizzle · Socket.io</sub>
 
 **인프라·테스트**<br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cloudflare,workers,aws,docker,vitest,jest&theme=dark"><img src="https://skillicons.dev/icons?i=cloudflare,workers,aws,docker,vitest,jest&theme=light" height="34"></picture> &nbsp;<sub>Playwright</sub>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cloudflare%2Cworkers%2Caws%2Cdocker%2Cvitest%2Cjest&theme=dark"><img src="https://skillicons.dev/icons?i=cloudflare,workers,aws,docker,vitest,jest&theme=light" height="34"></picture> &nbsp;<sub>Playwright</sub>
 
 <details>
 <summary><b>수상</b></summary>
