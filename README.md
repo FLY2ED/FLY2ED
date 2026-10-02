@@ -1,6 +1,6 @@
 <p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png"><img src="assets/logo-light.png" alt="naldadev" height="32"></picture></p>
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nums-dark.png?v=4"><img src="assets/nums-light.png?v=4" alt="DAU 2,500+ (Desktop Dday 운영 당시, 매각) · 크몽 평점 4.9/5, 리뷰 24건 · 오픈소스 기여 2건" width="100%"></picture></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nums-dark.png?v=5"><img src="assets/nums-light.png?v=5" alt="DAU 2,500+ (Desktop Dday 운영 당시, 매각) · 크몽 평점 4.9/5, 리뷰 24건 · 오픈소스 기여 3건" width="100%"></picture></p>
 
 - **[포트폴리오 보기](https://naldadev.com/portfolio/)** `naldadev.com`
 - **[seongjae@naldadev.com](mailto:seongjae@naldadev.com)** `메일`
@@ -16,6 +16,9 @@
 
 ### 오픈소스
 
+쓰다가 막힌 버그는 원인까지 찾아서 직접 고쳐요.
+
+- **[codex-multi-auth #727](https://github.com/ndycode/codex-multi-auth/pull/727)** `Merged`<br>실행할 때마다 메모리가 8.5GB까지 치솟아 서버가 멈추던 문제를 프로파일링으로 찾아 고쳤어요.
 - **[tmux #5409](https://github.com/tmux/tmux/pull/5409)** `upstream 반영`<br>화면 밖 pane에서 CPU 100% 무한 루프가 되던 문제를 찾아 고쳤어요.
 - **[UniClipboard #1436](https://github.com/UniClipboard/UniClipboard/pull/1436)** `Merged`<br>CLI에서 이미지 조회가 실패하던 버그를 고치고 회귀 테스트를 더했어요.
 
